@@ -1,9 +1,9 @@
-program Persistenciamutiplicativatest;
+program Persistenciamult;
 
 {$mode objfpc}{$H+}
 
 uses
-  Classes, consoletestrunner, persistenciamultiplicativatestcase;
+  Classes, consoletestrunner, Persistenciatestcase;
 
 type
 

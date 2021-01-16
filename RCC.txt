@@ -1,16 +1,15 @@
 Requerimientos
-R01: El programa debe recibir un numero y calcular la persistencia multiplicativa. 
-R02: El programa debe analizar y entender los numeros dados para realizar los calculos.
+R01: El programa debe recibir un numero y calcular la persistencia multiplicativa.
 
-Criterios de Aceptcion
-C01: El numero introducido debe ser un numero entero.
-C02: El numero introducido debe ser un numero positivo.
-C03: El programa no acepta texto o caracteres especiales.
-C04: El programa no puede retornar un numero menor que zero.
+Criterios de Aceptacion
+C01: Solo se pueden introducir numeros enteros.
+C02: El programa no acepta texto o caracteres especiales.
+C03: Solo se pueden introducir numeros positivos.
+C04: El programa no puede devolver un menor menor que zero.
 
-Casos de Prueba
-P01: 39 = 3
-P02: 325 = 2
-P03: 123 = 1
-P04: 6874 = 4
-P05: 897 = 1
+Casos de Prueba:
+CP01: 39 = 9
+CP02: 325 = 2
+CP03: 123 = 1
+CP04: 6847 = 4
+CP05: 986 = 3

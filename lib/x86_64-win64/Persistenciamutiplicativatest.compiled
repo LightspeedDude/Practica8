@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357350767"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\julio\OneDrive\Escritorio\Repositorios\Practica8\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FuC:\Users\julio\OneDrive\Escritorio\Repositorios\Practica8\ -FUC:\Users\julio\OneDrive\Escritorio\Repositorios\Practica8\lib\x86_64-win64\ -FEC:\Users\julio\OneDrive\Escritorio\Repositorios\Practica8\ -oC:\Users\julio\OneDrive\Escritorio\Repositorios\Practica8\Persistenciamutiplicativatest.exe Persistenciamutiplicativatest.lpr"/>
-</CONFIG>
