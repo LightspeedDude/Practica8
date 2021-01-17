@@ -6,7 +6,7 @@
     <BuildModes Active="Default"/>
     <Units Count="2">
       <Unit0>
-        <Filename Value="Persistenciamult.lpr"/>
+        <Filename Value="PMproject.lpr"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="-1"/>
@@ -15,12 +15,12 @@
         <UsageCount Value="20"/>
       </Unit0>
       <Unit1>
-        <Filename Value="persistenciatestcase.pas"/>
+        <Filename Value="pmtestcase.pas"/>
         <IsPartOfProject Value="True"/>
-        <UnitName Value="Persistenciatestcase"/>
+        <UnitName Value="PMtestcase"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="21"/>
-        <CursorPos X="44" Y="37"/>
+        <TopLine Value="19"/>
+        <CursorPos X="31" Y="25"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit1>
